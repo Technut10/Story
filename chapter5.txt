@@ -1,0 +1,2 @@
+I am going to add this chapter to the next issue of my book. I like the way this is going and am ok with it.
+I am going to figure out how to edit code in vim.
