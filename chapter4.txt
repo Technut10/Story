@@ -1,0 +1,4 @@
+
+Hello there everyone. I am practicing with git github and vim all in the same day! 
+
+Pretty soon I will be building full scale apps in vim, in hyperterminal, and deloying locally.`
